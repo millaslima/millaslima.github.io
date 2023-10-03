@@ -1,0 +1,17 @@
+
+.container .col-md h3{
+    color: rgb(106, 39, 161);
+}
+
+.container .alert-danger{
+    display: none;
+}
+
+section {
+   background-color: rgb(255, 0, 221);
+
+}
+
+@media screen and (max-width: 1020px) {
+    
+}
